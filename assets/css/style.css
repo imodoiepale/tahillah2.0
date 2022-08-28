@@ -505,6 +505,7 @@ p {
 }
 
 .sidebar-close {
+    
     position: absolute;
     top: 48px;
     right: 45px;
@@ -623,6 +624,7 @@ p {
 }
 
 .sidebar-close-btn {
+    color: white;
     width: 40px;
     height: 40px;
     border: 1px solid;
@@ -649,18 +651,7 @@ p {
     height: 40px;
 }
 
-.sidebar-content .search-form {
-    margin: 20px 0 25px;
-}
-
-.sidebar-content .search-form span {
-    position: absolute;
-    right: 20px;
-    top: 14px;
-    font-size: 20px;
-    color: #a19e9e;
-}
-
+.
 .sidebar-content .contact-info {
     padding: 0;
 }
